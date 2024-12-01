@@ -8,5 +8,5 @@ This project demonstrates the development of a text generation system using deep
   - A Dense Layer with softmax activation to predict the next word from the vocabulary.
 - **Performance Metrics**: The model is trained using categorical crossentropy as the loss function and Adam optimizer, achieving an accuracy of **87.54%** and a loss of **0.4756** after 100 epochs.
 - **Tools and Libraries**: TensorFlow/Keras for model development, NumPy for data manipulation.
-- 
+  
 This project serves as an excellent foundation for more advanced applications such as conversational agents, text summarization, or creative writing systems, and is ideal for those interested in exploring LSTMs and sequence-based learning in NLP.
